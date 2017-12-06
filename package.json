@@ -1,0 +1,18 @@
+{
+  "name": "ionic-native-jsms",
+  "version": "1.0.0",
+  "description": "ionic3对应的极光短信插件",
+  "module": "index.js",
+  "typings": "index.d.ts",
+  "author": "pillar<pillarhou@yeah.net>",
+  "license": "MIT",
+  "peerDependencies": {
+    "@ionic-native/core": "^4.2.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DarrenHou1993/ionic-native-jsms.git"
+  }
+}
